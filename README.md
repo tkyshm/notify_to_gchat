@@ -1,4 +1,4 @@
-# Cloud Function to alert notification to Slack from Stackdriver webhook notification.
+# Cloud Function to alert notification to Hangouts Chat from Stackdriver webhook notification.
 
 ## deploy
 
